@@ -1,0 +1,13 @@
+C:\Users\msimi\source\repos\SchoolProject\bin\Debug\SchoolProject.exe.config
+C:\Users\msimi\source\repos\SchoolProject\bin\Debug\SchoolProject.exe
+C:\Users\msimi\source\repos\SchoolProject\bin\Debug\SchoolProject.pdb
+C:\Users\msimi\source\repos\SchoolProject\obj\Debug\SchoolProject.csprojAssemblyReference.cache
+C:\Users\msimi\source\repos\SchoolProject\obj\Debug\SchoolProject.Form1.resources
+C:\Users\msimi\source\repos\SchoolProject\obj\Debug\SchoolProject.Properties.Resources.resources
+C:\Users\msimi\source\repos\SchoolProject\obj\Debug\SchoolProject.csproj.GenerateResource.cache
+C:\Users\msimi\source\repos\SchoolProject\obj\Debug\SchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\msimi\source\repos\SchoolProject\obj\Debug\SchoolProject.exe
+C:\Users\msimi\source\repos\SchoolProject\obj\Debug\SchoolProject.pdb
+C:\Users\msimi\source\repos\SchoolProject\obj\Debug\SchoolProject.ListaAlumno.resources
+C:\Users\msimi\source\repos\SchoolProject\obj\Debug\SchoolProject.principal.resources
+C:\Users\msimi\source\repos\SchoolProject\obj\Debug\SchoolProject.FormNotas.resources
